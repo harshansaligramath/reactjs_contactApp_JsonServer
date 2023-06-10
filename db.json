@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "sai krishna",
+      "email": "saikrishna@gmail.com",
+      "phone": "09747915145",
+      "id": 1686424728989,
+      "fav": false
+    },
+    {
+      "name": "sai krishna",
+      "email": "saikrishna@gmail.com",
+      "phone": "09747915145",
+      "id": 1686429717646,
+      "fav": false
+    }
+  ]
+}
